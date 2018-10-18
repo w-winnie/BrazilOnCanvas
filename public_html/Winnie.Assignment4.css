@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(#fffbe0, #fffdef, #fffdf2);
+}
+canvas{
+    margin: 1% 5%;
+    box-shadow: 10px 10px 2px burlywood;
+}
+h1{
+    color:firebrick;
+    text-align: center;
+}
